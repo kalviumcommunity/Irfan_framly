@@ -1,47 +1,37 @@
-# 📱 Focus – A Productivity Companion
 
-**Focus** is a minimal, distraction-free productivity app designed to help users manage tasks, track time using the Pomodoro technique, and stay motivated through light social accountability.  
-Originally prototyped as **Framely**, it has now evolved into **Focus** to better align with its core purpose: enabling deep work and mental clarity.
+readme_content = """
+# Capstone Project – Daily Task Tracking & Video Proof
 
----
+## ✅ GitHub Project Board
 
-## 🚀 Features
+I tracked my daily work and milestones using GitHub Projects.
 
-- ✅ Clean and minimal UI for a distraction-free experience  
-- ⏱️ Built-in Pomodoro timer with custom session lengths  
-- 🧾 To-do list with priority tagging and scheduling  
-- 📊 Productivity analytics and progress tracking  
-- 💬 Light-weight chat for peer motivation and check-ins  
-- 🌐 LEN HUB: A centralized space for Learning, Engagement & Networking  
-- ⚙️ Profile customization, theme control, and focus preferences
+🔗 [GitHub Board Link](https://github.com/your-username/your-repo/projects/1)  
+*(Update this with your actual board link)*
+
+- Added 10+ tasks over more than 10 days.
+- Used columns: To Do, In Progress, Done.
+- Logged daily progress and concept implementation.
 
 ---
 
-## 🧠 Design Philosophy
+## 📹 Video Walkthrough (Concept Explanation + Project Status)
 
-- ✨ **Simplicity first** – No bloat, just tools that help you focus
-- 🎯 **User-centered** – Built around real productivity use cases
-- 🤝 **Shared focus** – Designed for solo or peer-based productivity journeys
-
+I have recorded a screen share video where I:
+- Explain the **current state of the project**
+- Show the **GitHub Project board**
+- Walk through the **main features/concepts implemented**
+- Highlight **milestone completion**
+- Use **camera and mic**, ensuring clear audio
+- Share **entire screen** as required
 ---
 
-## 📂 Project Structure
+## ✅ Checklist
 
-```plaintext
-📁 /designs
-   └── lo-fi-wireframes.pdf
-   └── hi-fi-prototype.fig
-📁 /screens
-   ├── Splash
-   ├── Login / Signup
-   ├── Dashboard
-   ├── Pomodoro Timer
-   ├── Task List
-   ├── LEN HUB
-   ├── Chat
-   ├── Profile
-📁 /assets
-   └── Icons, illustrations, and color palette
-📁 /docs
-   └── Case study, research notes, user personas
+- [x] Clear task notes
+- [x] Video recorded with camera and screen share
+- [x] Shared with proper access
+- [x] File named correctly: `Irfan_Framely`
+
+"""
 
